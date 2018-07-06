@@ -2,7 +2,7 @@ CKA考试大纲
 
 准备在2018.8月份考试，先整理一下官方考点
 
-想看官网的考点的请戳[这里](https://github.com/wulalaya2py/curriculum/blob/master/certified_kubernetes_administrator_exam_v1.9.0.pdf)
+想看官网的考点的请戳[这里](https://github.com/cncf/curriculum/blob/master/certified_kubernetes_administrator_exam_v1.9.0.pdf)
 # 5% - 容器调度
 * 使用label Selectors调度Pod
 * 理解DaemonSets的角色
